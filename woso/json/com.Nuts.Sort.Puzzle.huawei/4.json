@@ -1,1 +1,1 @@
-{"nativesmall_lull":30000,"interstitial_lull":30000,"interstitialreward_lull":true,"isLoggingEnabled":false,"STshowInterstitial":60000,"STshowInterstitialSwitch":false,"SThandlerShowNative":80000,"noadRewardTime":60000}
+{"nativesmall_lull":30000,"interstitial_lull":10000,"interstitialreward_lull":true,"isLoggingEnabled":false,"STshowInterstitial":60000,"STshowInterstitialSwitch":true,"SThandlerShowNative":80000,"noadRewardTime":60000}

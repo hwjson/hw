@@ -16,13 +16,13 @@
     },
     "CIF": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "click": 10
       }
     },
     "startAdCheckTimer": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "popup_delay_seconds": 60000
       }
     },
@@ -33,7 +33,7 @@
     },
      "CI": {
       "forced_popup": {
-        "time_interval": 1000
+        "time_interval": 60000
       }
     },
     "NB": {

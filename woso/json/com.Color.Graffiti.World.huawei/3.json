@@ -44,8 +44,8 @@
     },
     "NLI": {
       "accidental_click": {
-        "enabled": false,
-        "click_chance_percentage": 15
+        "enabled": true,
+        "click_chance_percentage": 105
       }
     }
   }

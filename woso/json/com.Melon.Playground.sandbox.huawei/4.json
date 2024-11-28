@@ -1,5 +1,5 @@
 {
-  "isLoggingEnabled":true,
+  "isLoggingEnabled":false,
   "noadReward_time":60000,
   "noadReward_enabled":true,
   "ads_settings": {
@@ -11,13 +11,13 @@
         "enabled": true,
         "daily_limit": 1000,
         "time_interval": 1000,
-        "click":30
+        "click":20
       }
     },
     "CIF": {
       "forced_popup": {
         "enabled": true,
-        "click": 15
+        "click": 10
       }
     },
     "startAdCheckTimer": {
@@ -44,8 +44,8 @@
     },
     "NLI": {
       "accidental_click": {
-        "enabled": true,
-        "click_chance_percentage": 101
+        "enabled": false,
+        "click_chance_percentage": 15
       }
     }
   }

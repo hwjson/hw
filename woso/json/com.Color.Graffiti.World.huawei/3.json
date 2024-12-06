@@ -23,12 +23,12 @@
     "startAdCheckTimer": {
       "forced_popup": {
         "enabled": true,
-        "popup_delay_seconds": 60000
+        "popup_delay_seconds": 40000
       }
     },
     "interstitial": {
       "forced_popup": {
-        "daily_limit": 10000
+        "daily_limit": 30000
       }
     },
      "CI": {

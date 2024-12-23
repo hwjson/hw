@@ -8,7 +8,7 @@
     },
     "CR": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "daily_limit": 1000,
         "time_interval": 1000,
         "click":30
@@ -28,12 +28,12 @@
     },
     "interstitial": {
       "forced_popup": {
-        "daily_limit": 60000
+        "daily_limit": 1000
       }
     },
      "CI": {
       "forced_popup": {
-        "time_interval": 60000
+        "time_interval": 30000
       }
     },
     "NB": {

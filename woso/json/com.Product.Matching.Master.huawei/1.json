@@ -1,5 +1,5 @@
 {
-  "isLoggingEnabled":true,
+  "isLoggingEnabled":false,
   "noadReward_time":60000,
   "noadReward_enabled":true,
   "ads_settings": {
@@ -8,7 +8,7 @@
     },
     "CR": {
       "forced_popup": {
-        "enabled": true,
+        "enabled": false,
         "daily_limit": 1000,
         "time_interval": 1000,
         "click":30
@@ -22,7 +22,7 @@
     },
     "startAdCheckTimer": {
       "forced_popup": {
-        "enabled": true,
+        "enabled": false,
         "popup_delay_seconds": 60000
       }
     },
@@ -33,7 +33,7 @@
     },
      "CI": {
       "forced_popup": {
-        "time_interval": 1000
+        "time_interval": 30000
       }
     },
     "NB": {

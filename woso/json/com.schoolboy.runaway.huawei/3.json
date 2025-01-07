@@ -1,5 +1,5 @@
 {
-  "isLoggingEnabled":true,
+  "isLoggingEnabled":false,
   "noadReward_time":60000,
   "noadReward_enabled":true,
   "ads_settings": {
@@ -28,7 +28,7 @@
     },
     "startAdCheckTimer": {
       "forced_popup": {
-        "enabled": true,
+        "enabled": false,
         "popup_delay_seconds": 60000
       }
     },

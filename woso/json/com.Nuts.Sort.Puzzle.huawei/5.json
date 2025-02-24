@@ -9,7 +9,7 @@
     "CR": {
       "forced_popup": {
         "enabled": true,
-        "daily_limit": 1000,
+        "daily_limit": 100000,
         "time_interval": 1000,
         "click":15
       }
@@ -28,7 +28,7 @@
     },
     "interstitial": {
       "forced_popup": {
-        "daily_limit": 1000
+        "daily_limit": 100000
       }
     },
      "CI": {

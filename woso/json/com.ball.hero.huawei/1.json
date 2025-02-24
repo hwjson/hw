@@ -9,7 +9,7 @@
     "CR": {
       "forced_popup": {
         "enabled": false,
-        "daily_limit": 1000000,
+        "daily_limit": 100000,
         "time_interval": 1000,
         "click":15
       }

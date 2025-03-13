@@ -8,7 +8,7 @@
     },
      "checkNetWor": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "time_interval": 30000
       }
     },

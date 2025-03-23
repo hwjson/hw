@@ -1,5 +1,5 @@
 {
-  "isLoggingEnabled":true,
+  "isLoggingEnabled":false,
   "noadReward_time":60000,
   "noadReward_enabled":true,
   "ads_settings": {
@@ -22,7 +22,7 @@
     },
     "CIF": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "click": 10
       }
     },

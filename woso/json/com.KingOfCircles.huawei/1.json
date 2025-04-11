@@ -14,7 +14,7 @@
     },
     "CR": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "daily_limit": 100000,
         "time_interval": 1000,
         "click":15
@@ -22,7 +22,7 @@
     },
     "CIF": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "click": 10
       }
     },
@@ -44,7 +44,7 @@
     },
     "NB": {
       "carousel": {
-        "enabled": false,
+        "enabled": true,
         "carousel_seconds": 15000
       }
     },

@@ -34,7 +34,7 @@
     },
     "interstitial": {
       "forced_popup": {
-        "daily_limit": 3000000
+        "daily_limit": 1000000
       }
     },
      "CI": {
@@ -44,7 +44,7 @@
     },
     "NB": {
       "carousel": {
-        "enabled": true,
+        "enabled": false,
         "carousel_seconds": 15000
       }
     },

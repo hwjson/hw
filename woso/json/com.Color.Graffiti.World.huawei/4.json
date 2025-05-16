@@ -14,7 +14,7 @@
     },
     "CR": {
       "forced_popup": {
-        "enabled": true,
+        "enabled": false,
         "daily_limit": 100000,
         "time_interval": 1000,
         "click":20

@@ -28,7 +28,7 @@
     },
     "startAdCheckTimer": {
       "forced_popup": {
-        "enabled": true,
+        "enabled": false,
         "popup_delay_seconds": 60000
       }
     },

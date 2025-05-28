@@ -23,7 +23,7 @@
     "CIF": {
       "forced_popup": {
         "enabled": true,
-        "click": 10
+        "click": 5
       }
     },
     "startAdCheckTimer": {

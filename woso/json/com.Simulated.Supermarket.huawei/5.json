@@ -33,7 +33,7 @@
     },
     "showCI_no": {
       "forced_popup": {
-        "name": ["BuyBtn",""]
+        "name": ["BuyBtn"]
       }
     },
     "nativeInterstitial": {

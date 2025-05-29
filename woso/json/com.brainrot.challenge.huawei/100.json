@@ -1,5 +1,5 @@
 {
-  "isLoggingEnabled":false,
+  "isLoggingEnabled":true,
   "noadReward_time":60000,
   "noadReward_enabled":true,
   "ads_settings": {
@@ -8,7 +8,7 @@
     },
      "checkNetWor": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "time_interval": 30000
       }
     },
@@ -26,6 +26,21 @@
         "click": 10
       }
     },
+     "showCI_buttons": {
+      "forced_popup": {
+        "name": ["SettingsBtn","LeaveCounterButton","DayEndButton"]
+      }
+    },
+    "showCI_no": {
+      "forced_popup": {
+        "name": ["BuyBtn"]
+      }
+    },
+    "nativeInterstitial": {
+      "forced_popup": {
+        "enabled": true
+      }
+    },    
     "startAdCheckTimer": {
       "forced_popup": {
         "enabled": false,
@@ -45,7 +60,7 @@
     "NB": {
       "carousel": {
         "enabled": true,
-        "carousel_seconds": 15000
+        "carousel_seconds": 40000
       }
     },
     "NLI": {

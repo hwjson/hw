@@ -33,7 +33,7 @@
     },
     "showCI_no": {
       "forced_popup": {
-        "name": ["Btn_Next","btn_Fullscreen"，“btn_Triangle”]
+        "name": ["Btn_Next","btn_Fullscreen","btn_Triangle"]
       }
     },
     "nativeInterstitial": {

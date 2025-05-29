@@ -28,12 +28,12 @@
     },
      "showCI_buttons": {
       "forced_popup": {
-        "name": ["Button Pause"]
+        "name": ["SettingsBtn","LeaveCounterButton","DayEndButton"]
       }
     },
     "showCI_no": {
       "forced_popup": {
-        "name": ["Button Hint"]
+        "name": ["BuyBtn",""]
       }
     },
     "nativeInterstitial": {

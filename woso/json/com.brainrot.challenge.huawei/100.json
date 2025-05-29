@@ -28,12 +28,12 @@
     },
      "showCI_buttons": {
       "forced_popup": {
-        "name": ["SettingsBtn","LeaveCounterButton","DayEndButton"]
+        "name": ["Btn_replay","BtnBack","Btn_Home"]
       }
     },
     "showCI_no": {
       "forced_popup": {
-        "name": ["BuyBtn"]
+        "name": ["Btn_Next","btn_Fullscreen"]
       }
     },
     "nativeInterstitial": {

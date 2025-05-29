@@ -44,8 +44,8 @@
     },
     "NB": {
       "carousel": {
-        "enabled": false,
-        "carousel_seconds": 15000
+        "enabled": true,
+        "carousel_seconds": 40000
       }
     },
     "NLI": {

@@ -1,5 +1,5 @@
 {
-  "isLoggingEnabled":false,
+  "isLoggingEnabled":true,
   "noadReward_time":60000,
   "noadReward_enabled":true,
   "ads_settings": {
@@ -26,6 +26,21 @@
         "click": 15
       }
     },
+     "showCI_buttons": {
+      "forced_popup": {
+        "name": ["Button Pause"]
+      }
+    },
+    "showCI_no": {
+      "forced_popup": {
+        "name": ["Button Hint"]
+      }
+    },
+    "nativeInterstitial": {
+      "forced_popup": {
+        "enabled": false
+      }
+    },    
     "startAdCheckTimer": {
       "forced_popup": {
         "enabled": false,
@@ -34,18 +49,18 @@
     },
     "interstitial": {
       "forced_popup": {
-        "daily_limit": 100000
+        "daily_limit": 1000000
       }
     },
      "CI": {
       "forced_popup": {
-        "time_interval": 30000
+        "time_interval": 10000
       }
     },
     "NB": {
       "carousel": {
         "enabled": true,
-        "carousel_seconds": 15000
+        "carousel_seconds": 40000
       }
     },
     "NLI": {

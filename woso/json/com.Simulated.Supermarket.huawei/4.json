@@ -16,7 +16,7 @@
     },
     "CIF": {
       "forced_popup": {
-        "enabled": true,
+        "enabled": false,
         "click": 15
       }
     },
@@ -33,7 +33,7 @@
     },
      "CI": {
       "forced_popup": {
-        "time_interval": 20000
+        "time_interval": 10000
       }
     },
     "NB": {

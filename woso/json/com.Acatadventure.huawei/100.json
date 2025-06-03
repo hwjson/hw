@@ -17,7 +17,7 @@
         "enabled": false,
         "daily_limit": 100000,
         "time_interval": 1000,
-        "click":15
+        "click":5
       }
     },
     "CIF": {
@@ -28,13 +28,13 @@
     },
     "startAdCheckTimer": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "popup_delay_seconds": 60000
       }
     },
     "interstitial": {
       "forced_popup": {
-        "daily_limit": 100000
+        "daily_limit": 300000
       }
     },
      "CI": {
@@ -45,7 +45,7 @@
     "NB": {
       "carousel": {
         "enabled": true,
-        "carousel_seconds": 40000
+        "carousel_seconds": 60000
       }
     },
     "NLI": {

@@ -14,9 +14,9 @@
     },
     "CR": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "daily_limit": 100000,
-        "time_interval": 1000,
+        "time_interval": 10000,
         "click":5
       }
     },
@@ -28,7 +28,7 @@
     },
     "startAdCheckTimer": {
       "forced_popup": {
-        "enabled": true,
+        "enabled": false,
         "popup_delay_seconds": 60000
       }
     },

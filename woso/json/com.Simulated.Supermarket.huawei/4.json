@@ -4,11 +4,11 @@
   "noadReward_enabled":true,
   "ads_settings": {
     "splash_ad": {
-      "enabled": false
+      "enabled": true
     },
     "CR": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "daily_limit": 1000,
         "time_interval": 1000,
         "click":30
@@ -16,13 +16,13 @@
     },
     "CIF": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "click": 15
       }
     },
     "startAdCheckTimer": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "popup_delay_seconds": 60000
       }
     },

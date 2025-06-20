@@ -28,12 +28,12 @@
     },
      "showCI_buttons": {
       "forced_popup": {
-        "name": ["RetryButton","WatchRewardedVideoButton"]
+        "name": ["RetryButton"，“PauseButton”]
       }
     },
     "showCI_no": {
       "forced_popup": {
-        "name": ["FreeCoinsButton","FreeChestButton","FreeDiamondButton"]
+        "name": ["FreeCoinsButton","FreeChestButton","FreeDiamondButton"，“WatchRewardedVideoButton”]
       }
     },
     "nativeInterstitial": {

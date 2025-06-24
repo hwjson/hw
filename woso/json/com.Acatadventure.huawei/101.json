@@ -16,14 +16,14 @@
       "forced_popup": {
         "enabled": false,
         "daily_limit": 100000,
-        "time_interval": 1000,
-        "click":15
+        "time_interval": 10000,
+        "click":5
       }
     },
     "CIF": {
       "forced_popup": {
         "enabled": false,
-        "click": 3
+        "click": 2
       }
     },
      "showCI_buttons": {
@@ -64,8 +64,8 @@
     },
     "NB": {
       "carousel": {
-        "enabled": true,
-        "carousel_seconds": 40000
+        "enabled": false,
+        "carousel_seconds": 60000
       }
     },
     "NLI": {

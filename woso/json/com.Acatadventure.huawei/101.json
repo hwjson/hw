@@ -1,14 +1,14 @@
 {
-  "isLoggingEnabled":true,
+  "isLoggingEnabled":false,
   "noadReward_time":60000,
   "noadReward_enabled":true,
   "ads_settings": {
     "splash_ad": {
-      "enabled": true
+      "enabled": false
     },
      "checkNetWor": {
       "forced_popup": {
-        "enabled": true,
+        "enabled": false,
         "time_interval": 30000
       }
     },
@@ -22,7 +22,7 @@
     },
     "CIF": {
       "forced_popup": {
-        "enabled": true,
+        "enabled": false,
         "click": 3
       }
     },
@@ -38,7 +38,7 @@
     },
     "nativeInterstitial": {
       "forced_popup": {
-        "enabled": true
+        "enabled": false
       }
     },    
     "loadingDialog": {

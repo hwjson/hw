@@ -28,12 +28,12 @@
     },
      "showCI_buttons": {
       "forced_popup": {
-        "name": ["Button Resume",]
+        "name": ["Button Resume"]
       }
     },
     "showCI_no": {
       "forced_popup": {
-        "name": []
+        "name": ["Button"]
       }
     },
     "nativeInterstitial": {

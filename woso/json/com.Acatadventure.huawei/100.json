@@ -4,17 +4,17 @@
   "noadReward_enabled":true,
   "ads_settings": {
     "splash_ad": {
-      "enabled": false
+      "enabled": true
     },
      "checkNetWor": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "time_interval": 30000
       }
     },
     "CR": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "daily_limit": 100000,
         "time_interval": 10000,
         "click":5
@@ -22,13 +22,13 @@
     },
     "CIF": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "click": 2
       }
     },
     "startAdCheckTimer": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "popup_delay_seconds": 60000
       }
     },
@@ -44,7 +44,7 @@
     },
     "NB": {
       "carousel": {
-        "enabled": false,
+        "enabled": true,
         "carousel_seconds": 60000
       }
     },

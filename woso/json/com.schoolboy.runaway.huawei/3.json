@@ -14,7 +14,7 @@
     },
     "CR": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "daily_limit": 100000,
         "time_interval": 1000,
         "click":15
@@ -28,7 +28,7 @@
     },
     "startAdCheckTimer": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "popup_delay_seconds": 60000
       }
     },
@@ -39,13 +39,13 @@
     },
      "CI": {
       "forced_popup": {
-        "time_interval": 60000
+        "time_interval": 30000
       }
     },
     "NB": {
       "carousel": {
         "enabled": true,
-        "carousel_seconds": 30000
+        "carousel_seconds": 40000
       }
     },
     "NLI": {

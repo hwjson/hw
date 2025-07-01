@@ -39,7 +39,7 @@
     "NB": {
       "carousel": {
         "enabled": true,
-        "carousel_seconds": 30000
+        "carousel_seconds": 10000
       }
     },
     "NLI": {

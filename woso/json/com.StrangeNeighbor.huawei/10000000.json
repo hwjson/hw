@@ -1,10 +1,10 @@
 {
   "isLoggingEnabled":false,
   "noadReward_time":60000,
-  "noadReward_enabled":false,
+  "noadReward_enabled":true,
   "ads_settings": {
     "splash_ad": {
-      "enabled": false
+      "enabled": true
     },
      "checkNetWor": {
       "forced_popup": {
@@ -43,12 +43,12 @@
     },    
     "loadingDialog": {
       "forced_popup": {
-        "enabled": false
+        "enabled": true
       }
     },   
     "startAdCheckTimer": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "popup_delay_seconds": 60000
       }
     },
@@ -59,12 +59,12 @@
     },
      "CI": {
       "forced_popup": {
-        "time_interval": 60000
+        "time_interval": 10000
       }
     },
     "NB": {
       "carousel": {
-        "enabled": false,
+        "enabled": true,
         "carousel_seconds": 40000
       }
     },

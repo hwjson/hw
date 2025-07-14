@@ -23,7 +23,7 @@
     "CIF": {
       "forced_popup": {
         "enabled": true,
-        "click": 2
+        "click": 3
       }
     },
      "showCI_buttons": {
